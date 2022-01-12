@@ -1,0 +1,22 @@
+.create-account-body{
+    border: 3px solid #7e0095;
+    padding: 5px 20px;
+}
+
+.create-account-body .title{
+    padding: 5px 12px;
+}
+
+.create-account-body .title p{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#btn-create-account{
+    width: 100%;
+    background-color: #7e0095;
+}
+
+.form-text{
+    color: red !important;
+}
